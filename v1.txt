@@ -1,8 +1,3 @@
-I
-am
-peter
-pang
-la
-la
-la
-!
+我是
+PP
+！
